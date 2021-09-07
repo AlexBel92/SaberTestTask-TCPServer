@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStore", "DataStore\DataStore.csproj", "{DC6B893F-EE41-4574-91CC-5F7A32FD9EB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStoreServer", "DataStoreServer\DataStoreServer.csproj", "{7A5C3439-D449-430A-B056-7487F027200A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6B893F-EE41-4574-91CC-5F7A32FD9EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6B893F-EE41-4574-91CC-5F7A32FD9EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6B893F-EE41-4574-91CC-5F7A32FD9EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6B893F-EE41-4574-91CC-5F7A32FD9EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5C3439-D449-430A-B056-7487F027200A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5C3439-D449-430A-B056-7487F027200A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5C3439-D449-430A-B056-7487F027200A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5C3439-D449-430A-B056-7487F027200A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB5C0B9-FD4B-4DE6-A85B-751747550EF4}
+	EndGlobalSection
+EndGlobal
